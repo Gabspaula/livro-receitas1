@@ -1,6 +1,7 @@
-# Livro de receitas :woman_cook:
+# Livro de receitas veganas :woman_cook:
 
-Ola! Bem vindo ao meu livro de receitas.
+Olá! Bem vindo ao meu livro de receitas.
 
 - Strogonoff de Cogumelo
 - Cachorro quente
+- Yellow Curry
